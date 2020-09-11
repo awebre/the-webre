@@ -1,5 +1,21 @@
-import React from "react"
+import React from 'react';
 
-export default function Home() {
-  return <div>Future home of something. I promise this time.</div>
-}
+import Layout from 'components/Layout';
+import SEO from 'components/SEO';
+import HeroBanner from 'components/HeroBanner';
+import Services from 'components/Services';
+import Testimonials from 'components/Testimonials';
+
+const IndexPage: React.FC = () => {
+  return (
+    <Layout>
+      <SEO title="About Me" />
+      <HeroBanner />
+      <Services />
+      <hr />
+      <Testimonials />
+    </Layout>
+  );
+};
+
+export default IndexPage;
