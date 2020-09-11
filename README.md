@@ -46,4 +46,4 @@ This project was created using the [Gatsby Markdown Typescript Personal Website]
 
 ## Deploy
 
-This project is deployed using [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/), which was setup by following [this Microsoft tutorial](https://docs.microsoft.com/en-us/azure/static-web-apps/publish-gatsby)
+This project is deployed using [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/), which was setup by following [this Microsoft tutorial](https://docs.microsoft.com/en-us/azure/static-web-apps/publish-gatsby).

@@ -1,8 +1,8 @@
 ---
 category: 'hero section'
-title: 'Frontend Developer'
-subtitle: 'I am the Great Gatsby'
-content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+title: 'Full Stack Developer'
+subtitle: 'Specializing in .NET, React, Xamarin.Forms, and WPF.'
+content: 'I cut my teeth on ASP.NET MVC with JQuery and Razor, adapted to ASP.NET Web API with AngularJS, and have graduated to .NET Core Web API with React (and sometimes even Typescript). Along the way, I have also contributed to multiple mobile apps in Xamarin.Forms (ranging from the early days of a million custom renderers, to bleeding edge MVU implementations coming in .NET MAUI).'
 linkTo: '/resume/'
-linkText: 'View My Profile'
+linkText: 'Want more details? Click me!'
 ---

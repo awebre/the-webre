@@ -19,10 +19,6 @@ const mainNavItems: MainNavItem[] = [
   {
     title: 'Blog',
     slug: '/blog/'
-  },
-  {
-    title: 'Contact Me',
-    slug: '/contact/'
   }
 ];
 
